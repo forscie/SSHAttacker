@@ -132,9 +132,3 @@ In the event that the password list is exhausted before an attack is successful,
 the screen. The script will automatically close all SSH sessions and exit the script. This can occur if the 
 password file is not comprehensive enough, or the SSH username does not exist or has been entered incorrectly.
 
-
-
-
-
-
-
