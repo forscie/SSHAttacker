@@ -22,10 +22,10 @@
 
 	Installation:
 	
-		              Get python 3.5:  https://www.python.org/downloads/
-			            Install pip3:  https://pip.pypa.io/en/latest/installing/
+		Get python 3.5:  https://www.python.org/downloads/
+		Install pip3:  https://pip.pypa.io/en/latest/installing/
 		 
-  		     Install paramiko module:  $ pip3 install paramiko
+  		Install paramiko module:  $ pip3 install paramiko
 
 
 Usage:
