@@ -7,7 +7,7 @@
 # This is a noisy script for attacking insecure SSH servers. The script
 # does not presume usernames. A password file (one password per line) must be provided.
 #
-# > Written by: forScience james@4a57.xyz
+# > Written by: forScience james@forscience.xyz
 #
 # ** This script has been created for research and educational purposes.
 # ** It must only be used in accordance with the law. 
